@@ -25,7 +25,7 @@
     exturl: false,
     sidebar: {"position":"right","width":300,"display":"post","offset":12,"onmobile":"ture"},
     copycode: {"enable":false,"show_result":false,"style":null},
-    back2top: {"enable":true,"sidebar":true,"scrollpercent":false},
+    back2top: {"enable":"ture","sidebar":false,"scrollpercent":"ture"},
     bookmark: {"enable":"ture","color":"#222","save":"auto"},
     fancybox: false,
     mediumzoom: false,
@@ -184,6 +184,10 @@
     </header>
 
     
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
   <div class="reading-progress-bar"></div>
   <a role="button" class="book-mark-link book-mark-link-fixed"></a>
 
@@ -321,8 +325,10 @@
         </a>
       </div>
       <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
         <span class="site-state-item-count">3</span>
-        <span class="site-state-item-name">标签</span>
+        <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
 </div>
@@ -368,10 +374,6 @@
 
 
       </div>
-        <div class="back-to-top motion-element">
-          <i class="fa fa-arrow-up"></i>
-          <span>0%</span>
-        </div>
 
     </div>
   </aside>
@@ -426,6 +428,8 @@
 <script src="/js/schemes/muse.js"></script>
 <script src="/js/next-boot.js"></script><script src="/js/bookmark.js"></script>
 
+  <script defer src="/lib/three/three.min.js"></script>
+    <script defer src="/lib/three/canvas_sphere.min.js"></script>
 
 
   
