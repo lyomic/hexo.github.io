@@ -49,22 +49,6 @@
     sidebarPadding: 40
   };
 </script>
-<script>
-	
-	window.onload = function(){
-		var path = 'https://lyomic.github.io'; 
-		var localhostItem = String(window.location).split(path)[1];
-		var LiNode = document.querySelectorAll('#menu > li > a')
-		
-		for(var i = 0; i< LiNode.length;i++){
-			var item = String(LiNode[i].href).split(path)[1];
-			if(item == localhostItem && item != undefined){
-				LiNode[i].setAttribute('style','border-bottom:1px solid black');
-			}
-		}
-	};
-
-</script>
   <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello World">

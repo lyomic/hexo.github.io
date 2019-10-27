@@ -49,22 +49,6 @@
     sidebarPadding: 40
   };
 </script>
-<script>
-	
-	window.onload = function(){
-		var path = 'https://lyomic.github.io'; 
-		var localhostItem = String(window.location).split(path)[1];
-		var LiNode = document.querySelectorAll('#menu > li > a')
-		
-		for(var i = 0; i< LiNode.length;i++){
-			var item = String(LiNode[i].href).split(path)[1];
-			if(item == localhostItem && item != undefined){
-				LiNode[i].setAttribute('style','border-bottom:1px solid black');
-			}
-		}
-	};
-
-</script>
   <meta property="og:type" content="website">
 <meta property="og:title" content="Hexo">
 <meta property="og:url" content="http:&#x2F;&#x2F;lyomic.github.io&#x2F;archives&#x2F;2019&#x2F;index.html">
