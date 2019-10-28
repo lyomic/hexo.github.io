@@ -90,6 +90,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lyomic/lyomic.github.io
+  repo:
+    github: https://github.com/lyomic/lyomic.github.io
+    coding: https://e.coding.net/lyomic/lyomic.coding.me.git
   branch: master
 #插件
