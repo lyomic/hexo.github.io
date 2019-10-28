@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lyomic&#39;blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lyomic.github.io/"/>
+  <updated>2019-10-27T17:37:29.698Z</updated>
+  <id>http://lyomic.github.io/</id>
+  
+  <author>
+    <name>lyomic</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>对hexo的修改-1</title>
+    <link href="http://lyomic.github.io/dui-hexo-de-xiu-gai-1/"/>
+    <id>http://lyomic.github.io/dui-hexo-de-xiu-gai-1/</id>
+    <published>2019-10-27T14:44:34.000Z</published>
+    <updated>2019-10-27T17:37:29.698Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><ul><li>基于NexT主题修改</li><li>参考了大量互联网资源</li><li>本次主题修改仅用于个人学习交流，版权归；<a href="https://mist.theme-next.org/" target="_blank" rel="noopener">NexT.Mist</a>所有</li></ul><h2 id="主题修改目标"><a href="#主题修改目标" class="headerlink" title="主题修改目标"></a>主题修改目标</h2><ul><li>自定义侧栏</li><li>添加个性化背景</li><li>添加统计信息</li><li>增加404页面</li><li>菜单个性化</li><li>个别处添加小图标装饰</li><li>建立个性化页面</li><li>优化博客风格，向极简风靠拢</li></ul><h2 id="关于本此修改的内容处理"><a href="#关于本此修改的内容处理" class="headerlink" title="关于本此修改的内容处理"></a>关于本此修改的内容处理</h2><p>- </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;声明&quot;&gt;&lt;a href=&quot;#声明&quot; class=&quot;headerlink&quot; title=&quot;声明&quot;&gt;&lt;/a&gt;声明&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;基于NexT主题修改&lt;/li&gt;
+&lt;li&gt;参考了大量互联网资源&lt;/li&gt;
+&lt;li&gt;本次主题修改仅用于个人学习交流，版权归；&lt;a h
+      
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="http://lyomic.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lyomic.github.io/hello-world/"/>
+    <id>http://lyomic.github.io/hello-world/</id>
+    <published>2019-10-27T02:52:45.000Z</published>
+    <updated>2019-10-27T15:01:17.166Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="why-create-this-bolg"><a href="#why-create-this-bolg" class="headerlink" title="why create this bolg"></a>why create this bolg</h2><ul><li>个人备忘录</li><li>广交志同道合的开发者</li><li>聊以宣泄情绪的后院</li></ul><h2 id="how-to-contact-me"><a href="#how-to-contact-me" class="headerlink" title="how to contact me"></a>how to contact me</h2><ul><li>qq:2625898553</li><li>email:<a href="mailto:9102loveu@gmail.com" target="_blank" rel="noopener">9102loveu@gmail.com</a></li></ul><h2 id="about-me-emmm"><a href="#about-me-emmm" class="headerlink" title="about  me emmm"></a>about  me emmm</h2><ul><li>internet name:lyomic </li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;why-create-this-bolg&quot;&gt;&lt;a href=&quot;#why-create-this-bolg&quot; class=&quot;headerlink&quot; title=&quot;why create this bolg&quot;&gt;&lt;/a&gt;why create this bolg&lt;/h2&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="我的第一篇Hexo博客文章" scheme="http://lyomic.github.io/tags/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="about" scheme="http://lyomic.github.io/tags/about/"/>
+    
+      <category term="first page" scheme="http://lyomic.github.io/tags/first-page/"/>
+    
+  </entry>
+  
+</feed>
