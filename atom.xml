@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>lyomic&#39;blog</title>
+  <title>Lyomic&#39;blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lyomic.github.io/"/>
-  <updated>2019-11-01T06:06:23.323Z</updated>
+  <updated>2019-11-03T03:46:00.969Z</updated>
   <id>http://lyomic.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WIN10Alt Tab卡顿联想电脑解决办法</title>
+    <link href="http://lyomic.github.io/win10alt-tab-qia-dun-lian-xiang-dian-nao-jie-jue-ban-fa/"/>
+    <id>http://lyomic.github.io/win10alt-tab-qia-dun-lian-xiang-dian-nao-jie-jue-ban-fa/</id>
+    <published>2019-11-03T02:02:50.000Z</published>
+    <updated>2019-11-03T03:46:00.969Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="导火索"><a href="#导火索" class="headerlink" title="导火索"></a>导火索</h2><p>今天自用联想Y7000P出现问题，问题也不大，就是卡了，</p><ul><li>i7-9750</li><li>1T三星纯固态</li><li>1660Ti</li><li>16G内存</li></ul><p>至于怎样的卡，比如按下WIN+R卡，用输入法打字卡，切换窗口卡</p><h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><ul><li><p>昨天所做的努力</p><ul><li>一直在尝试，我打开程序和功能，查看那些程序在最新的安装日期，查看最近更新，看看WINDOWS有没有更新最新的补丁，找到一个是10月30号的  但是已经固化了 不敢轻易卸载，听说之前有百度吧友卸载固化补丁结果蓝屏了，只能继续上网找方法。</li></ul></li><li><p>今天所得的方法</p><ul><li>右键 我的电脑- 管理 - 服务和应用程序- 服务。找到 Lenovo System Interface Foundation 服务禁用掉重新启动即可（不重启也没事，立马见效）</li><li>貌似这是一个联想支持服务，关了之后MCAFREE好像变得不正常了 不过没事 我认为有一个微软安全中心足够了。</li></ul></li><li><p>如何卸载Lenovo System Interface Foundation</p><ul><li><p>在“设备管理器”中，展开“系统设备”类别，右键单击“System Interface Foundation V2 Device”，然后选择“卸载”。</p></li><li><p>从管理员命令提示符处，执行以下命令：“c：\ windows \ system32 \ imcontroller.infinstaller.exe -uninstall”<br>————————————————</p></li></ul><p>  [^版权声明]:hhh</p></li></ul><p>[^RUNOOB]: 菜鸟教程 – 学的不仅是技术，更是梦想！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;导火索&quot;&gt;&lt;a href=&quot;#导火索&quot; class=&quot;headerlink&quot; title=&quot;导火索&quot;&gt;&lt;/a&gt;导火索&lt;/h2&gt;&lt;p&gt;今天自用联想Y7000P出现问题，问题也不大，就是卡了，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;i7-9750&lt;/li&gt;
+&lt;li&gt;1T三星纯固态
+      
+    
+    </summary>
+    
+    
+    
+      <category term="电脑问题" scheme="http://lyomic.github.io/tags/%E7%94%B5%E8%84%91%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>茶余饭后-1</title>
